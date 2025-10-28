@@ -1,0 +1,6 @@
+@import "tailwindcss"; 
+
+::-webkit-scrollbar{
+    display:none;
+}
+/* this to make the scroll bar for horizotal data hidden */

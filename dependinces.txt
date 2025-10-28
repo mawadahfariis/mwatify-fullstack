@@ -1,0 +1,25 @@
+in back end dependinces : 
+npm install cloudinary cors dotenv express mongoose multer nodemon
+
+-- cloudinary = to store image and mp3 files
+-- cors = to connect backend with front end
+-- dotenv = to store enviroment variable
+-- express = to connect backend apis
+-- mongoose = to conect and manage the database
+-- multer = upload the image and mp3 file that we will get from the frontend
+--nodemon = create script that can easily run our project
+
+
+
+to run the back end 
+npm run server ---> we add the server script using nodemon in the package.js
+
+
+
+
+
+in admin panel depenceies :
+npm install axios react-router-dom react-toastify
+-- axios = to call api
+react-router-dom = create multiple routes in the admin panel ---> add song and album and so on
+react-toastify = to display toast notification
